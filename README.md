@@ -1,5 +1,6 @@
 # WordFreq
-#### This app can rank the 10.000 most used words in the chinese language, so you can know how important each new word you encounter. 
+#### This app can rank the 10.000 most used words in the chinese language, 
+#### so you can know how important each new word you encounter. 
 ####  Download the WordFreq apk here ： https://github.com/TMPKKecske/EngFreq/releases/download/1.1.0/engfreq-release.apk
 ## How to use：
 1. Write your words into the field “Your words: ”
@@ -11,5 +12,5 @@
 - Words are highlighted from the 1st to the 3500th rank
 - If you close the app your words will be saved automatically 
 ## The list used as a database to make the app:
-# https://en.wiktionary.org/wiki/Appendix:Mandarin_Frequency_lists
-# Thanks to K. J. Chen and the CKIP Group of the Academia Sinica for the list. 
+#### https://en.wiktionary.org/wiki/Appendix:Mandarin_Frequency_lists
+#### Thanks to K. J. Chen and the CKIP Group of the Academia Sinica for the list. 
